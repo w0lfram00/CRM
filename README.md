@@ -1,1 +1,1 @@
-# CRM
+# CRM-ish app
