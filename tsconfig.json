@@ -27,7 +27,7 @@
     "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts",
-    "src/app/components/ActiveLabel"
+    "src/app/components/StatusLabel"
   ],
   "exclude": ["node_modules"]
 }
