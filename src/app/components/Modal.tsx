@@ -37,7 +37,7 @@ export default function Modal({
       >
         <div className="fixed inset-0 bg-gray-500 opacity-75 transition-opacity" />
 
-        <DialogPanel className="relative transform overflow-hidden rounded-lg bg-white shadow-xl transition-all p-7 mx-auto sm:my-10 sm:w-full sm:max-w-2xl transition-opacity">
+        <DialogPanel className="relative transform overflow-hidden rounded-lg bg-white shadow-xl transition-all p-7 mx-auto sm:my-10 sm:w-full sm:max-w-2xl">
           {children}
         </DialogPanel>
       </Dialog>
